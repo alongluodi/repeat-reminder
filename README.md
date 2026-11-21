@@ -3,6 +3,8 @@
 > 老板每天用手机打开，看一眼「今天该提醒谁」，复制话术发微信，30 秒一个人。
 > 一个刻意做窄的移动端：只解决复购提醒这一件事。
 
+> 视频讲解 @抖音「阿龙做系统落地」 · 深度教程 @公众号「soft零壹零」
+
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![vue](https://img.shields.io/badge/vue-3.5-42b883)
 ![build](https://img.shields.io/badge/build-vite%207-646cff)
